@@ -1,2 +1,2 @@
-# Singleplayer Racing Game
-A single player based racing game that uses keyboard inputs.
+# Multi-User Racing Game
+A multi-user based racing game that uses two sets of keyboard inputs.
