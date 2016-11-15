@@ -1,6 +1,6 @@
 /**
  *
- * @author 1332852
+ * @author JH05
  */
 import java.awt.Color;
 import java.awt.Graphics;
@@ -11,11 +11,7 @@ import java.awt.Graphics;
 public class Map
 {
     
-    // Method to call the set collision hit boxes.
-    public Map()
-    {
-    	
-    }
+    public Map() {}
         
     // Method to render the default track
     public void renderDefaultMap(Graphics g)
